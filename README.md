@@ -1,2 +1,2 @@
 # pry_test
-Probando git n github
+Probando git in github
